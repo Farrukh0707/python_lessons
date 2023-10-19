@@ -1,0 +1,1 @@
+Pythonning fayllar bilan ishlash darsida fayl yaratib uning ichiga ma'lumot kiritish, ularni tahrirlash va shu kabilar o'rganildi.
